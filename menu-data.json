@@ -1,0 +1,411 @@
+[
+  {
+    "title": "Breakfast",
+    "subtitle": "Served all day · A lovely way to begin",
+    "items": [
+      {
+        "name": "House granola",
+        "price": "14",
+        "desc": "Rolled oats, chopped almonds, pepitas, poppy seeds, sesame seeds, dried fruit, and smoked maple syrup. Served with almond milk.",
+        "diet": "V · GF"
+      },
+      {
+        "name": "Soft scrambled egg plate*",
+        "price": "16",
+        "desc": "Soft scrambled eggs, marinated heirloom cherry tomatoes, avocado, seared brioche toast.",
+        "diet": "GFA"
+      },
+      {
+        "name": "Avocado toast*",
+        "price": "19",
+        "desc": "Seared brioche, avocado, shaved fennel, marinated heirloom cherry tomatoes, herb salad, chive oil, ancho chile, fried egg.",
+        "diet": "GFA"
+      },
+      {
+        "name": "Egg sammy*",
+        "price": "19",
+        "desc": "Sausage patty, roasted Campari tomato, cheddar, fried egg, remoulade, brioche bun. Gem salad.",
+        "diet": "GFA"
+      }
+    ]
+  },
+  {
+    "title": "A little more breakfast",
+    "subtitle": "Served all day · Sweet or savory?",
+    "items": [
+      {
+        "name": "Sausage & potatoes*",
+        "price": "23",
+        "desc": "Chicken sausage, confit fingerlings, blistered tomato and scallion, two poached eggs, hollandaise.",
+        "diet": "GF"
+      },
+      {
+        "name": "Savory croissant waffle",
+        "price": "23",
+        "desc": "Prosciutto, Swiss and spinach laced croissant waffle, two poached eggs, Calabrian smoked maple syrup, pistachio.",
+        "diet": ""
+      },
+      {
+        "name": "Sweet croissant waffle",
+        "price": "19",
+        "desc": "Cinnamon sugar coated croissant waffle, whipped cream, fresh berries, smoked maple syrup.",
+        "diet": ""
+      },
+      {
+        "name": "Breakfast burrito*",
+        "price": "21",
+        "desc": "Barbacoa, soft scrambled eggs, refried beans, house red salsa, cheddar, fried dauphinoise potato chips. Gem salad.",
+        "diet": ""
+      },
+      {
+        "name": "Smoked salmon plate",
+        "price": "31",
+        "desc": "Hot smoked honey glazed salmon, marinated heirloom cherry tomatoes, shaved fennel, chimichurri, remoulade & toast points.",
+        "diet": "GFA"
+      }
+    ]
+  },
+  {
+    "title": "Little bites & weekends",
+    "subtitle": "À la carte · Make it your morning",
+    "items": [
+      {
+        "name": "Grilled cheese",
+        "price": "8",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Egg & cheese croissant sandwich",
+        "price": "10",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Croissant waffle with cinnamon sugar",
+        "price": "12",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Bacon, egg & cheese burrito",
+        "price": "13",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Steak & eggs*",
+        "price": "49",
+        "desc": "Available Friday, Saturday & Sunday. 12oz New York Strip, fried eggs, chimichurri, wilted spinach & roasted mushrooms.",
+        "diet": "GF"
+      }
+    ]
+  },
+  {
+    "title": "Lunch",
+    "subtitle": "Starting at 11am · Stay a little longer",
+    "items": [
+      {
+        "name": "Corn salad",
+        "price": "24",
+        "desc": "Charred corn, seasonal fruit, avocado, heirloom cherry tomatoes, red onion, mixed greens, almonds, mint, Chardonnay vinaigrette.",
+        "diet": "V · GF"
+      },
+      {
+        "name": "Chicken & cabbage salad",
+        "price": "23",
+        "desc": "Roasted chicken, Napa cabbage, cucumber, kimchi, peanuts, mint, cilantro, kewpie soy dressing.",
+        "diet": "GF"
+      },
+      {
+        "name": "Parisian club",
+        "price": "23",
+        "desc": "Roasted chicken, bacon, avocado, roasted Campari tomato, spinach, dijonnaise, fresh baked croissant. Kettle chips.",
+        "diet": "GFA"
+      },
+      {
+        "name": "Patty melt*",
+        "price": "25",
+        "desc": "Wagyu patty, caramelized onions, Boursin cheese, Calabrian smoked maple aioli, brioche toast. Gem salad.",
+        "diet": "GFA"
+      }
+    ]
+  },
+  {
+    "title": "On the side",
+    "subtitle": "A little extra something",
+    "items": [
+      {
+        "name": "Brioche toast",
+        "price": "3",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Gluten free toast",
+        "price": "3",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Bacon",
+        "price": "6",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Roasted mushrooms",
+        "price": "6",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Avocado",
+        "price": "5",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Hot smoked honey salmon",
+        "price": "14",
+        "desc": "",
+        "diet": ""
+      }
+    ]
+  },
+  {
+    "title": "Cocktails & company",
+    "subtitle": "A toast to taking your time",
+    "items": [
+      {
+        "name": "Mimosa",
+        "price": "9",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Bloody Mary",
+        "price": "14",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Greyhound",
+        "price": "14",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Spritz",
+        "price": "15",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Espresso martini",
+        "price": "16",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Wine",
+        "price": "10",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Beer",
+        "price": "MKT",
+        "desc": "",
+        "diet": ""
+      }
+    ]
+  },
+  {
+    "title": "Coffee",
+    "subtitle": "Regular / Large · Your daily little ritual",
+    "items": [
+      {
+        "name": "Espresso",
+        "price": "4.50",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Americano",
+        "price": "4.50 / 4.50",
+        "desc": "Hot or iced.",
+        "diet": ""
+      },
+      {
+        "name": "Cappuccino",
+        "price": "5.50",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Latte",
+        "price": "6 / 7",
+        "desc": "Hot or iced.",
+        "diet": ""
+      },
+      {
+        "name": "Mocha",
+        "price": "7 / 8",
+        "desc": "Hot or iced.",
+        "diet": ""
+      },
+      {
+        "name": "The Toff",
+        "price": "7 / 8",
+        "desc": "Hot or iced. Espresso, oat milk, toffee, sea salt.",
+        "diet": ""
+      },
+      {
+        "name": "The Tinder",
+        "price": "7 / 8",
+        "desc": "Hot or iced. Espresso, oat milk, half-sweet pistachio.",
+        "diet": ""
+      }
+    ]
+  },
+  {
+    "title": "Coffee, continued",
+    "subtitle": "Regular / Large · One more sip",
+    "items": [
+      {
+        "name": "Espresso sunrise",
+        "price": "7.50",
+        "desc": "Espresso, fresh squeezed orange juice, tonic.",
+        "diet": ""
+      },
+      {
+        "name": "Affogato w Pizzicletta olive oil gelato",
+        "price": "8",
+        "desc": "Traditional or iced & shaken.",
+        "diet": ""
+      },
+      {
+        "name": "Iced coffee",
+        "price": "6 / 6.50",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Drip coffee",
+        "price": "4",
+        "desc": "",
+        "diet": ""
+      }
+    ]
+  },
+  {
+    "title": "Matcha & tea",
+    "subtitle": "Regular / Large · Something soothing",
+    "items": [
+      {
+        "name": "Matcha latte",
+        "price": "6.50 / 7.50",
+        "desc": "Ceremonial grade, unsweetened. Hot or iced.",
+        "diet": ""
+      },
+      {
+        "name": "Matcha soda",
+        "price": "7",
+        "desc": "Large. Ceremonial grade, unsweetened.",
+        "diet": ""
+      },
+      {
+        "name": "Matcha lemonade",
+        "price": "7.50 / 8.50",
+        "desc": "Ceremonial grade, unsweetened.",
+        "diet": ""
+      },
+      {
+        "name": "Earl grey matcha",
+        "price": "7 / 8",
+        "desc": "Ceremonial grade, unsweetened. Hot or iced.",
+        "diet": ""
+      },
+      {
+        "name": "Iced tea",
+        "price": "5",
+        "desc": "Large. Tropical Green or Black.",
+        "diet": ""
+      },
+      {
+        "name": "Arnold Palmer",
+        "price": "5.50 / 6",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Loose leaf tea",
+        "price": "5",
+        "desc": "Hot or iced.",
+        "diet": ""
+      },
+      {
+        "name": "Chai latte",
+        "price": "6.50 / 7.50",
+        "desc": "Hot or iced.",
+        "diet": ""
+      },
+      {
+        "name": "London fog",
+        "price": "6.50",
+        "desc": "Lavender or Vanilla.",
+        "diet": ""
+      }
+    ]
+  },
+  {
+    "title": "Juice & little extras",
+    "subtitle": "Regular / Large · Make it yours",
+    "items": [
+      {
+        "name": "Fresh squeezed orange juice",
+        "price": "5.50",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Grapefruit juice",
+        "price": "4",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Fresh squeezed lemonade",
+        "price": "5.50 / 6.50",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Flavored syrup",
+        "price": "1",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Alternative milk",
+        "price": "1",
+        "desc": "Oat, almond, soy, breve.",
+        "diet": ""
+      },
+      {
+        "name": "Whip",
+        "price": "1.50",
+        "desc": "",
+        "diet": ""
+      },
+      {
+        "name": "Extra shot",
+        "price": "2.50",
+        "desc": "",
+        "diet": ""
+      }
+    ],
+    "extra": "Flavored syrups: vanilla, lavender, rose, blackberry, peach, raspberry, mango, strawberry, kiwi, hazelnut, pistachio, toffee nut, honey, caramel sauce, chocolate sauce, SF vanilla."
+  }
+]
